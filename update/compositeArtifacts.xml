@@ -9,6 +9,6 @@
   <children size='3'>
     <child location='5.0.0'/>
     <child location='6.0.0'/>
-    <child location='5.0.0'/>
+    <child location='7.0.0'/>
   </children>
 </repository>
